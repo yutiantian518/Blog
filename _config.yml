@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 雨天天的一片田
+title: "雨天天的一片田"
 subtitle: ""
 description: ""
-keywords:
-author: Peggy
-language: zh-CN
+keywords: "雨天天的一片田"
+author: "Peggy"
+language: "zh-CN"
 timezone: ""
 
 # URL

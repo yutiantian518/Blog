@@ -576,7 +576,7 @@ post:
   # 文章底部自定义区域（位于 footer 上方），支持 HTML，可插入赞赏码、公众号这类内容内容
   # Custom content at the bottom of the post page (located above the footer)
   custom:
-    enable: true
+    enable: false
     content: '<img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/peipei_blog/20220131195431.jpg" class="rounded mx-auto d-block mt-5" >'
 
   # 文章图片可点击放大
